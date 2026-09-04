@@ -41,6 +41,7 @@ function App() {
     <p> Você clicou {cliques} vezes</p>
     <button onClick={aumentarClique}> Clique aqui </button>
   
+    <hr></hr>
     </div>
   )
 
